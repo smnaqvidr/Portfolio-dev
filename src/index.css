@@ -4,6 +4,10 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  zoom: 70%; /* Adjust the percentage as needed */
+}
+
 * {
   margin: 0;
   padding: 0;
