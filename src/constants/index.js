@@ -152,7 +152,7 @@ const experiences = [
     company_name: "Western University",
     icon: western,
     iconBg: "#383E56",
-    date: "September 2021 - April 2023",
+    date: "May 2021 - December 2023",
     points: [
       "Contributed to the improvement of university applications, primarily focusing on web development. Worked on Student Center portal, OWL (Online Western Learning Portal), and Western’s official website and ensured higher cross-browser compatibility resulting in 20% decrease in reported issues.",
       "Developed object-oriented code with ASP.NET and Node.js while achieving 100% compliance with WCAG guidelines.",
