@@ -4,9 +4,7 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-  zoom: 0.8; /* 80% zoom */
-}
+
 * {
   margin: 0;
   padding: 0;
