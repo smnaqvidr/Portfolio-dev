@@ -99,8 +99,13 @@ const Navbar = () => {
 
                 </li>
                 
+                
               ))}
-              <a href={"google.com"}>Resume</a>
+              <li className={`${
+              "text-secondary"
+              } hover:text-white text-[18px] font-medium cursor-pointer`}>
+          <a href="https://drive.google.com/uc?export=download&id=1AdMfhli5Hcga-ZDHCHTkmb8wBo1jgtPM">Resume</a>
+          </li>
                 
             </ul>
           </div>
