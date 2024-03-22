@@ -24,4 +24,9 @@ module.exports = {
     },
   },
   plugins: [],
+  future: {
+    purgeLayersByDefault: true,
+    removeDeprecatedGapUtilities: true,
+    unknownAtRules: ['tailwind', 'apply', 'variants', 'responsive', 'screen'],
+  },
 };
